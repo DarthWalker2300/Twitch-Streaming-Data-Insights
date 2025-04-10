@@ -2,7 +2,7 @@
 
 This is a personal project where I scraped top streamer data from [TwitchTracker](https://twitchtracker.com) and analyzed it using Python. The goal was to explore patterns in viewership, streaming hours, and efficiency across Twitch's top-performing channels.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DarthWalker2300/twitch-streaming-data-insights/blob/main/Twitch_Streaming_Insights_Final.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DarthWalker2300/twitch-streaming-data-insights/blob/main/Twitch_Streaming_Insights.ipynb) 
 ---
 
 ## 📊 What I Did
